@@ -33,11 +33,11 @@ The primary users of this system are car rental businesses that need an efficien
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/car-rental-system.git
+    git clone https://github.com/manidixit51/Car-Rental-System.git
     ```
 2. **Navigate to the Project Directory**
     ```bash
-    cd car-rental-system
+    cd Car-Rental-System
     ```
 
 ## Usage
