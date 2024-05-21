@@ -1,29 +1,69 @@
-# 🚗 Car Rental System
 
-Explore the world of car rentals with the **Car Rental System**, a Java-based console application that combines learning and simulation. 🌟
-
-## Features
-
-🚀 Rent a Car: Experience the ease of renting cars through an interactive console.
-🔁 Return a Car: Effortlessly return previously rented cars and update availability.
-👥 Customer Management: Add new customers and maintain customer records.
-🚗 Car Management: Manage cars, brands, models, and pricing details.
-📝 Rental History: Keep track of rentals, customers, and rental durations.
-
-## Getting Started
-
-1.git clone https://github.com/manidixit51/Car-Rental-System
-
-## Contributions Welcome! 🎉
-
-Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
-
-## Future Roadmap 🛤️
-
-🤝 Support multiple customers renting the same car simultaneously.
-⏰ Implement date-based pricing adjustments.
-🎨 Develop a graphical user interface (GUI) for enhanced user experience.
+Certainly! Below is a sample README for the car rental system project.
 
 ---
 
-Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
+# Car Rental System
+
+## Overview
+
+This is a simple car rental system implemented in Java. It allows users to manage a fleet of cars, check availability, rent cars, and return them.
+
+## Features
+
+- **Add Cars**: Add new cars to the rental system.
+- **Check Availability**: View a list of available cars.
+- **Rent Cars**: Rent a car from the available inventory.
+- **Return Cars**: Return a rented car to the inventory.
+
+## Requirements
+
+- Java Development Kit (JDK) 8 or higher
+
+## Installation
+
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/yourusername/car-rental-system.git
+    ```
+2. **Navigate to the Project Directory**
+    ```bash
+    cd car-rental-system
+    ```
+
+## Usage
+
+1. **Compile the Project**
+    ```bash
+    javac Main.java
+    ```
+2. **Run the Application**
+    ```bash
+    java Main
+    ```
+
+## Code Structure
+
+- **Car.java**: Represents a car with attributes like make, model, year, and availability status.
+- **RentalSystem.java**: Manages the list of cars and provides methods to add cars, check availability, rent, and return cars.
+- **Main.java**: Contains the main method to demonstrate the functionality of the rental system.
+
+## Example
+
+Here's how the system works:
+
+1. **Add Cars**: Adding a few cars to the system.
+2. **Check Availability**: Listing available cars.
+3. **Rent a Car**: Renting a car from the list.
+4. **Return a Car**: Returning the rented car.
+
+![CarRental](https://github.com/manidixit51/Car-Rental-System/assets/133573718/6d25881e-9783-4976-9269-bcd3fffbf97f)
+
+
+## Contribution
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or enhancements.
+
+
+
+---
